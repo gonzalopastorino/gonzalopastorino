@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido!👋</h1>
-<h3 align="center">Soy estudiante de Licenciatura en Informática en la UNLP. Actualmente estoy cursando una diplomatura Full Stack en la UNTREF.</h3>
+<h3>Estudiante de Licenciatura en Informática en la UNLP y actualmente estoy cursando una diplomatura Full Stack en la UNTREF.</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
